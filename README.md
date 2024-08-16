@@ -1,17 +1,14 @@
 # Frontend Mentor - NFT preview card component solution
 
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-- [My process](#my-process)
+  - [Links](#links)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -25,43 +22,21 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/Solution-Screenshot_NFT-preview-card-component.png)
+![](./design/Solution-NFT-Card.png)
 
-## My process
+### Links
+
+- Solution URL: [Repository Link](https://github.com/mjclaypool/Rock-Paper-Scissors)
+- Live Site URL: [Live Link](https://mjclaypool.github.io/Rock-Paper-Scissors/)
 
 ### Built with
 
 - Semantic HTML5
-- CSS
-
-### What I learned
-
-I learned how to overlay an icon and a semi-transparent box over an image while hovering. Using the :hover pseudo-class, a view icon becomes fully opaque and a colored background appears over the main image while hovering over the region.
-
-```css
-img.view {
-    width: 50px;
-    height: 50px;
-    padding: 130px;
-    border-radius: 8px;
-    opacity: 0;
-}
-```
-```css
-img.view:hover {
-    background: rgba(0, 255, 247, 0.4);
-    opacity: 1.0;
-}
-```
-
-### Continued development
-
-Working to improve my use of flex and containers that resize their contents automatically with changes to the viewport.
-
-### Useful resources
-
-- [W3School - CSS Opacity / Transparency](https://www.w3schools.com/css/css_image_transparency.asp) - This helped me build a semi-transparent colored box without changing the opacity of the icon within it.
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
 
 ## Author
 
+- Website - [Mallory Claypool](https://mjclaypool.github.io/Personal-Portfolio/)
 - Frontend Mentor - [@mjclaypool](https://www.frontendmentor.io/profile/mjclaypool)
