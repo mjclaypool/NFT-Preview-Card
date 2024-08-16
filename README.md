@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Repository Link](https://github.com/mjclaypool/Rock-Paper-Scissors)
-- Live Site URL: [Live Link](https://mjclaypool.github.io/Rock-Paper-Scissors/)
+- Solution URL: [Repository Link](https://github.com/mjclaypool/NFT-Preview-Card)
+- Live Site URL: [Live Link](https://mjclaypool.github.io/NFT-Preview-Card/)
 
 ### Built with
 
